@@ -8,6 +8,10 @@ func main() {
 	// constType()
 	// valueFormat()
 	// arrayDemo()
-	conditionsDemo()
+	// conditionsDemo()
+	// switchDemo()
+	// loopDemo()
+	// sum(5, 10)
+	testcount(1)
 
 }
